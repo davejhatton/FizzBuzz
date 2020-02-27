@@ -1,10 +1,0 @@
-
-Wsquid:S1611
-"4Remove the parentheses around the "number" parameter(÷¿›âøÿÿÿÿ8¥©Ô¢ˆ.
-Wsquid:S1611"4Remove the parentheses around the "number" parameter(ñÙ§Úûÿÿÿÿ8¥©Ô¢ˆ.
-usquid:S4276
-"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(÷¿›âøÿÿÿÿ8¥©Ô¢ˆ.
-usquid:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(ñÙ§Úûÿÿÿÿ8¥©Ô¢ˆ.
-Esquid:S1214""Move constants to a class or enum.(ðùßÚýÿÿÿÿ8¥©Ô¢ˆ.
-usquid:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(¼öŒ­þÿÿÿÿ8¥©Ô¢ˆ.
-Wsquid:S1611"4Remove the parentheses around the "number" parameter(¼öŒ­þÿÿÿÿ8¥©Ô¢ˆ.
