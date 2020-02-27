@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="054452ec-fcf5-40f6-9bc8-86d9e5515004" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -189,7 +188,34 @@
       <option name="presentableId" value="Default" />
       <updated>1582746042557</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added gitignore">
+      <created>1582792975603</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582792975603</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added gitignore">
+      <created>1582793032765</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582793032766</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Cleaned up">
+      <created>1582793140710</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582793140710</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added gitignore" />
+    <MESSAGE value="Cleaned up" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaned up" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2685" y="240" key="#com.intellij.ide.util.MemberChooser" timestamp="1582769233707">
@@ -204,10 +230,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2642" y="393" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582792287245" />
-    <state x="2547" y="119" key="CommitChangelistDialog2" timestamp="1582793085139">
+    <state x="2547" y="119" key="CommitChangelistDialog2" timestamp="1582793138343">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2547" y="119" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582793085139" />
+    <state x="2547" y="119" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582793138343" />
     <state width="1877" height="394" key="GridCell.Tab.0.bottom" timestamp="1582792136304">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -248,10 +274,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2383" y="166" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582746575062" />
-    <state x="2472" y="257" width="990" height="526" key="Vcs.Push.Dialog.v2" timestamp="1582793100705">
+    <state x="2472" y="257" width="990" height="526" key="Vcs.Push.Dialog.v2" timestamp="1582793153632">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="257" width="990" height="526" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582793100705" />
+    <state x="2472" y="257" width="990" height="526" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582793153632" />
     <state x="2588" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1582786053940">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>

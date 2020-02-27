@@ -92,3 +92,12 @@ fabric.properties
 
 # End of https://www.gitignore.io/api/intellij
 /.idea/
+/target/
+/.idea/codeStyles/
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/sonarlint/
+/.idea/compiler.xml
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
